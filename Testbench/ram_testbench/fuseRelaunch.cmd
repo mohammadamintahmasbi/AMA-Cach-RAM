@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "secureip" -o "C:/Users/Morteza/Desktop/Testbench/ram_testbench/ram_testbench_isim_beh.exe" -prj "C:/Users/Morteza/Desktop/Testbench/ram_testbench/ram_testbench_beh.prj" "work.ram_testbench" 

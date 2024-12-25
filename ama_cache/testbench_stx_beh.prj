@@ -1,0 +1,4 @@
+vhdl isim_temp "ama_ram.vhd"
+vhdl isim_temp "ama_cache.vhd"
+vhdl isim_temp "ama_cache_ram.vhd"
+vhdl isim_temp "ama_cache_ram_bench_test.vhd"

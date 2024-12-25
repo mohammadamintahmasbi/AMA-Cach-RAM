@@ -1,0 +1,4 @@
+vhdl work "ama_ram.vhd"
+vhdl work "ama_cache.vhd"
+vhdl work "ama_cache_ram.vhd"
+vhdl work "ama_cache_ram_bench_test.vhd"

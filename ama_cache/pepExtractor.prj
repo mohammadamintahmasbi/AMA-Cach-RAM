@@ -1,0 +1,3 @@
+work	"ama_cache.vhd"
+work	"ama_cache_ram.vhd"
+work	"ama_ram.vhd"

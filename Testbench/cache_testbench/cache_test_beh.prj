@@ -1,0 +1,2 @@
+vhdl work "ama_cache.vhd"
+vhdl work "cache_test.vhd"
